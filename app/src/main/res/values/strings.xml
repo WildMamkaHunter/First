@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">StIvan</string>
+    <string name="imageView">png</string>
+
+    <string name="NameText">Имя</string>
+    <string name="SNameText">Фамилия</string>
+    <string name="TNameText">Отчество</string>
+    <string name="DateText">Дата Рождения</string>
+    <string name="EmailText">Email</string>
+
+    <string name="TextView2"></string>
+    <string name="TextView3"></string>
+    <string name="TextView4"></string>
+    <string name="TextView5"></string>
+    <string name="TextView6"></string>
+
+</resources>
